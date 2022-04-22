@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">GyroVSAccelerometer</string>
+    <string name="sensor_accuracy_low">Low</string>
+    <string name="sensor_accuracy_medium">Medium</string>
+    <string name="sensor_accuracy_high">High</string>
+    <string name="sensor_accuracy_unreliable">Unreliable</string>
+    <string name="gyroscope_label">Gyroscope</string>
+    <string name="accelerometer_label">Accelerometer</string>
+    <string name="gyroscope_accuracy_label">Gyroscope Accuracy Level: %s</string>
+    <string name="accelerometer_accuracy_label">Accelerometer Accuracy Level: %s</string>
 </resources>
